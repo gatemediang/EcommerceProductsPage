@@ -1,6 +1,6 @@
 # EcommerceProductsPage
 
-This poject is an Ecommerce Product Page design with HTML and CSS
+This poject is an Ecommerce Product Page design with HTML, CSS, & Javascript
 
 ![EcommerceProductsPage](/images/collections.PNG)
 
